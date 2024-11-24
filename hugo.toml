@@ -1,0 +1,4 @@
+baseURL = 'https://blog.harpreet.in/'
+languageCode = 'en-us'
+title = "Harpreet's Blog"
+theme = 'typo'
